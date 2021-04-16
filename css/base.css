@@ -1,9 +1,9 @@
 @font-face {
-font-family: "Comfortaa"; 
-src: url("../fonts/Comfortaa-VariableFont_wght.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: normal; 
-} 
+    font-family: "Comfortaa";
+    src: url("../fonts/Comfortaa-VariableFont_wght.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
 
 body {
     font-family: 'Comfortaa', helvetica, sans-serif;
@@ -20,6 +20,39 @@ html {
 
 g:hover {
     opacity: 0.6;
+}
+
+.bg-tovar {
+    background: url(../img/gantel.png) no-repeat;
+    background-size: contain;
+}
+.tovar {
+    border-radius: 1em;
+}
+
+.catalog {
+    border-radius: 10px;
+}
+
+.name {
+    font-size: 26px;
+    color: black;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.price {
+    border-radius: 1em 0 1em 0;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    background: black;
+}
+
+.priceNumber {
+    font-size: 22px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .heading {
