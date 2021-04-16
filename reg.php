@@ -20,7 +20,7 @@
     <!--Content-->
     <div class="col">
         <div class="row d-flex" style="height: 30vh;margin-top: 50px">
-            <div class="col-4 mx-auto">
+            <div class="col-3 mx-auto zelLine">
                 <div class="row" style="height:400px;background:#353535;">
                     <div class="col">
                         <div class="row mt-4">
@@ -31,12 +31,12 @@
                         <form action="reg_insert.php" method="post">
                             <div class="row my-4">
                                 <div class="col d-flex">
-                                    <input class="mx-auto" type="email" placeholder="Введите ваш E-mail" name="mail">
+                                    <input class="mx-auto form-control input" type="email" placeholder="Введите ваш E-mail" name="mail">
                                 </div>
                             </div>
                             <div class="row my-4">
                                 <div class="col d-flex">
-                                    <input class="mx-auto" type="password" placeholder="Введите пароль" name="pass">
+                                    <input class="mx-auto form-control input" type="password" placeholder="Введите пароль" name="pass">
                                 </div>
                             </div>
                             <div class="row my-2">

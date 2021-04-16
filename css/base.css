@@ -30,6 +30,21 @@ g:hover {
     border-radius: 1em;
 }
 
+.input {
+    border-radius: 1em;
+    width: 80%;
+}
+
+.gantels {
+    width: 40%;
+    margin-left: 700px;
+}
+
+
+.zelLine {
+    border-top: 7px solid #326500;
+}
+
 .catalog {
     border-radius: 10px;
 }
