@@ -28,7 +28,7 @@
                                 <img src="img/logoVert.svg" class="mx-auto" style="width:45%">
                             </div>
                         </div>
-                        <form action="auth_insert.php" method="post">
+                        <form action="reg_insert.php" method="post">
                             <div class="row my-4">
                                 <div class="col d-flex">
                                     <input class="mx-auto" type="email" placeholder="Введите ваш E-mail" name="mail">
@@ -41,15 +41,16 @@
                             </div>
                             <div class="row my-2">
                                 <div class="col d-flex">
-                                    <button class="btn btn-success mx-auto">Войти</button>
+                                    <button class="btn btn-success mx-auto">Зарегистрироваться</button>
                                 </div>
-                            </div>                            
+                            </div>                                                        
                             <div class="row d-flex">
-                                <a href="reg.php" class="mx-auto">Нет аккаунта?</a>
+                                <a href="auth.php" class="mx-auto">Есть аккаунт?</a>
                             </div>
                         </form>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
