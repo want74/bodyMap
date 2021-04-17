@@ -37,6 +37,9 @@
                             <div class="row my-4">
                                 <div class="col d-flex">
                                     <input class="mx-auto form-control input" type="password" placeholder="Введите пароль" name="pass">
+                                    <?php
+                                        echo '<input class="mx-auto form-control input d-none" type="text" name="muscle" value="'. $_GET['query'].'"> '
+                                    ?>
                                 </div>
                             </div>
                             <div class="row my-2">
@@ -45,7 +48,9 @@
                                 </div>
                             </div>                                                        
                             <div class="row d-flex">
-                                <a href="auth.php" class="mx-auto">Есть аккаунт?</a>
+                                <?php
+                                    echo '<a href="auth.php?query='.$_GET['query'].'" class="mx-auto">Есть аккаунт?</a>';
+                                ?>
                             </div>
                         </form>
                     </div>

@@ -20,8 +20,8 @@
     <!--Content-->
     <div class="col">
         <div class="row d-flex" style="height: 30vh;margin-top: 50px">
-            <div class="col-3 mx-auto zelLine">
-                <div class="row" style="height:400px;background:#353535;">
+            <div class="col-3 mx-auto">
+                <div class="row zelLine" style="height:400px;background:#353535;">
                     <div class="col">
                         <div class="row mt-4">
                             <div class="col d-flex">
@@ -37,22 +37,28 @@
                             <div class="row my-4">
                                 <div class="col d-flex">
                                     <input class="mx-auto form-control input" type="password" placeholder="Введите пароль" name="pass">
+                                    <?php
+                                        echo '<input class="mx-auto form-control input d-none" type="text" name="muscle" value="'. $_GET['query'].'"> '
+                                    ?>
+
                                 </div>
                             </div>
                             <div class="row my-2">
                                 <div class="col d-flex">
                                     <button class="btn btn-success mx-auto">Войти</button>
                                 </div>
-                            </div>                            
+                            </div>
                             <div class="row d-flex">
-                                <a href="reg.php" class="mx-auto">Нет аккаунта?</a>
+                                <?php
+                                    echo '<a href="reg.php?query='.$_GET['query'].'" class="mx-auto">Нет аккаунта?</a>';
+                                ?>
                             </div>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
-    </div>    
+    </div>
     </div>
     </div>
 

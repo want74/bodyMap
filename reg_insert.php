@@ -9,7 +9,7 @@
 		}
 		else{
             $query2 = mysqli_query($connect, "INSERT INTO users ( mail, pass ) VALUES ('". $_POST['mail'] . "','". $_POST['pass'] . "')");
-            header("Location: auth.php");
+            header("Location: auth.php?query=".$_POST['muscle']);
 		}	
 	}
 	else {

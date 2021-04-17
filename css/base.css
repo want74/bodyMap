@@ -43,6 +43,7 @@ g:hover {
 
 .zelLine {
     border-top: 7px solid #326500;
+    border-radius: 12px;
 }
 
 .catalog {
