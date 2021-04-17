@@ -60,13 +60,14 @@
         <div class="row d-flex" style="height: 800px;margin-top: 60px">
             <div class="col-10 text-white mx-auto">
                 <div class="row d-flex">
-                    <h2 class="mx-auto">Гантели</h2>
+                    <h2 class="mx-auto">Рекомендуемые снаряды:</h2>
                 </div>
                 <!--Каталог-->
                 <div class="row bg-white catalog">
                     <div class="col">
                         <div class="row mt-3">
-                            <div class="col-3 mx-auto bg-tovar">
+                            <div class="col-3 mx-auto bg-tovar lol">
+                               <a href="more1.php" class="text-decoration-none text-white">
                                 <div class="row tovar shadow-lg" style="height:250px;">
                                     <div class="price">
                                         <p class="priceNumber">8400 RUB</p>
@@ -75,6 +76,7 @@
                                 <div class="row bg-white tovar shadow-lg mt-3">
                                     <p class="name mx-auto">B.O.M.J Black</p>
                                 </div>
+                                </a>
                             </div>
                             <div class="col-3 mx-auto bg-tovar">
                                 <div class="row tovar shadow-lg" style="height:250px;">
