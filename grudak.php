@@ -20,7 +20,7 @@
     <!--Content-->
     <div class="col">
         <!--Программа-->
-        <div class="row d-flex" style="height: 100vh;margin-top: 30px">
+        <div class="row d-flex" style="height: 800px;margin-top: 30px">
             <div class="col-11 text-white mx-auto">
                 <div class="row">
                     <div class="col">
@@ -30,8 +30,12 @@
                         <div class="row my-2">
                             <p class="ml-3">Учёные выяснили, что эти упражнения нагружают грудь по полной.</p>
                         </div>
-                        <div class="row my-2"><iframe class="mx-5" width="560" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <iframe class="mx-3" width="560" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                        <div class="row my-2">
+                            <div class="col">
+                                <iframe class="mx-5" style="width:40%;" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="mx-3" style="width:40%;" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
                         <div class="row my-4">
                             <p>Чтобы грудь стала рельефной, надо качать большие грудные мышцы. Для начала разберёмся, как они работают, а потом покажем упражнения.</p>
                         </div>
@@ -53,7 +57,7 @@
             </div>
         </div>
 
-        <div class="row d-flex" style="height: 200vh;margin-top: 60px">
+        <div class="row d-flex" style="height: 800px;margin-top: 60px">
             <div class="col-10 text-white mx-auto">
                 <div class="row d-flex">
                     <h2 class="mx-auto">Гантели</h2>
@@ -93,7 +97,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row"  style="margin-top:100px;">
+                        <div class="row" style="margin-top:100px;">
                             <div class="col-3 mx-auto bg-tovar">
                                 <div class="row tovar shadow-lg" style="height:250px;">
                                     <div class="price">
