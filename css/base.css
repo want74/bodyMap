@@ -1,8 +1,5 @@
 @font-face {
-    font-family: "Comfortaa";
-    src: url("../fonts/Comfortaa-VariableFont_wght.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
+    @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 }
 
 body {
@@ -30,6 +27,15 @@ html {
     height: 45px;
     border-radius: 25px;
     border: 0;
+}
+
+.vanya {
+    min-width: 120px;  
+    min-height: 200px;
+}
+
+.youtube {
+    
 }
 
 g:hover {
