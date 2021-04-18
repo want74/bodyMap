@@ -62,8 +62,18 @@ hr {
     border-radius: 1em;
 }
 
-.bg-tovar:hover {
-    opacity: 0.6;
+.bg-tovar-1:hover {
+    opacity: 0.6;    
+    transition: 0.2s;
+}
+
+.bg-tovar-2:hover {
+    opacity: 0.6;    
+    transition: 0.2s;
+}
+
+.bg-tovar-3:hover {
+    opacity: 0.6;    
     transition: 0.2s;
 }
 
