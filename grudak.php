@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    $_SESSION['session_username'] = $_SESSION['session_username'];
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,7 +30,9 @@
                 <div class="row">
                     <div class="col">
                         <div class="row my-2">
-                            <h2 class="ml-4">Как накачать грудные мышцы</h2>
+                            <h2 class="ml-4">
+                                Как накачать грудные мышцы
+                            </h2>
                         </div>
                         <div class="row my-2">
                             <div class="col-2">
@@ -112,7 +119,7 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>         
+                        </div>
                     </div>
                 </div>
             </div>
