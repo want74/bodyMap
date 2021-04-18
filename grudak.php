@@ -20,7 +20,7 @@
     <!--Content-->
     <div class="col">
         <!--Программа-->
-        <div class="row d-flex" style="height: 800px;margin-top: 30px">
+        <div class="row d-flex" style="height: 1200px;margin-top: 30px">
             <div class="col-11 text-white mx-auto">
                 <div class="row">
                     <div class="col">
@@ -28,12 +28,25 @@
                             <h2 class="ml-4">Как накачать грудные мышцы</h2>
                         </div>
                         <div class="row my-2">
-                            <p class="ml-3">Учёные выяснили, что эти упражнения нагружают грудь по полной.</p>
+                            <div class="col-2">
+                                <img src="img/vanya.jpg" class="w-100">
+                            </div>
+                            <div class="col">
+                                <p class="ml-3">Курс разработан Алексеевым Иваном, участником Детей Азии, III место в Республиканском турнире по спортивной борьбе среди юношей в г.Сорске. (Хакасия) январь 2015 г. II место в лично-командном Первенстве РС(Я) по вольной борьбе среди юношей. с. Борогонцы Усть-Алданский улус март 2015 г. II место в Республиканском фестивале вольной борьбы «Игры Боотуров» г.Якутск 2015 г. II место в малом чемпионате Азии Казахстан г. Чимкент Сарыагаш 2015 г. I место в открытом первенстве СКОСШИОСД по вольной борьбе Казахстан г. Петропавловск, III место по наклону вперед из положения сидя на региональном этапе Всероссийских спортивных соревнований школьников «Президентские состязания» май 2015 г. г.Якутскp>
+                                </p>
+                            </div>
+
+                        </div>
+                        <div class="row my-2">
+                            <p class="ml-3">Тренировка грудных мышц — одна из ключевых в создании спортивного и атлетичного тела, поскольку именно эти мышцы формируют сильный и массивный корпус. Главные правила успешной прокачки груди — постоянный прогресс рабочих весов, разнообразные упражнения, идеальная техника выполнения, а также достаточное время на отдых и восстановление. </p>
+                        </div>
+                        <div class="row my-2">
+                            <p class="ml-3"> Наиболее хорошо об этом рассказано в этих видеороликах: </p>
                         </div>
                         <div class="row my-2">
                             <div class="col">
-                                <iframe class="mx-5" style="width:40%;" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <iframe class="mx-3" style="width:40%;" height="315" src="https://www.youtube.com/embed/q5q0_rHHOdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="mx-5" style="width:40%;" height="315" src="https://www.youtube.com/embed/oTzEfsTu6IE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe class="mx-3" style="width:40%;" height="315" src="https://www.youtube.com/embed/JFol7P2SZc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                         <div class="row my-4">
@@ -43,9 +56,6 @@
                 </div>
                 <div class="row">
                     <div class="col">
-                        <div class="row my-2">
-                            <h2 class="ml-4">Как накачать грудные мышцы</h2>
-                        </div>
                         <div class="row my-2">
                             <p class="ml-3">Представьте, что грудная мышца — это резинка, которая соединяет плечо, ключицу и грудину. Если поднять руку в сторону, а потом потянуть за резинку, она переведёт плечо вперёд. Вы постоянно совершаете это движение в обычной жизни — например, когда закрываете дверь, с силой отталкиваете что-то или бьёте локтём в челюсть.</p>
                         </div>
@@ -57,7 +67,7 @@
             </div>
         </div>
 
-        <div class="row d-flex" style="height: 800px;margin-top: 60px">
+        <div class="row d-flex" style="height: auto;margin-top: 60px">
             <div class="col-10 text-white mx-auto">
                 <div class="row d-flex">
                     <h2 class="mx-auto">Рекомендуемые снаряды:</h2>
@@ -65,104 +75,44 @@
                 <!--Каталог-->
                 <div class="row bg-white catalog">
                     <div class="col">
-                        <div class="row mt-3">
-                            <div class="col-3 mx-auto bg-tovar lol">
-                               <a href="more1.php" class="text-decoration-none text-white">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
+                        <div class="row mt-3 mb-3">
+                            <div class="col-3 mx-auto bg-tovar-1 lol">
+                                <a href="more1.php" class="text-decoration-none text-white">
+                                    <div class="row tovar shadow-lg" style="height:250px;">
+                                        <div class="price">
+                                            <p class="priceNumber">2400 RUB</p>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
+                                    <div class="row bg-white tovar shadow-lg mt-3">
+                                        <p class="name mx-auto text-center">Гантеля стандартная</p>
+                                    </div>
                                 </a>
                             </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
+                            <div class="col-3 mx-auto bg-tovar-2 lol">
+                                <a href="more2.php" class="text-decoration-none text-white">
+                                    <div class="row tovar shadow-lg" style="height:250px;">
+                                        <div class="price">
+                                            <p class="priceNumber">8772 RUB</p>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
+                                    <div class="row bg-white tovar shadow-lg mt-3">
+                                        <p class="name mx-auto text-center">Набор из штанги</p>
                                     </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
+                                </a>
                             </div>
-                        </div>
-                        <div class="row" style="margin-top:100px;">
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
+                            <div class="col-3 mx-auto bg-tovar-3 lol">
+                                <a href="more3.php" class="text-decoration-none text-white">
+                                    <div class="row tovar shadow-lg" style="height:250px;">
+                                        <div class="price">
+                                            <p class="priceNumber">4490 RUB</p>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
+                                    <div class="row bg-white tovar shadow-lg mt-3">
+                                        <p class="name mx-auto text-center">Брусья стандартные</p>
                                     </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
+                                </a>
                             </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
-                                    </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row" style="margin-top:100px;">
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
-                                    </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
-                                    </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                            <div class="col-3 mx-auto bg-tovar">
-                                <div class="row tovar shadow-lg" style="height:250px;">
-                                    <div class="price">
-                                        <p class="priceNumber">8400 RUB</p>
-                                    </div>
-                                </div>
-                                <div class="row bg-white tovar shadow-lg mt-3">
-                                    <p class="name mx-auto">B.O.M.J Black</p>
-                                </div>
-                            </div>
-                        </div>
+                        </div>         
                     </div>
                 </div>
             </div>

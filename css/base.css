@@ -42,10 +42,22 @@ hr {
     height: 1.2px; 
 }
 
-.bg-tovar {
+.bg-tovar-1 {
     background: url(../img/gantel.png) no-repeat;
     background-size: contain;
 }
+
+.bg-tovar-2 {
+    background: url(../img/shtanga.webp) no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.bg-tovar-3 {
+    background: url(../img/brus.webp) no-repeat;
+    background-size: contain;
+}
+
 .tovar {
     border-radius: 1em;
 }
@@ -76,7 +88,7 @@ hr {
 }
 
 .name {
-    font-size: 26px;
+    font-size: 20px;
     color: black;
     margin-top: auto;
     margin-bottom: auto;

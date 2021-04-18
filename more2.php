@@ -20,18 +20,25 @@
     <div class="container">
         <div class="row" style="margin-top:130px;">
             <div class="col">
-                <img src="img/gantel.png" class="w-100">
+                <img src="img/shtanga.webp" class="w-100">
             </div>
             <div class="col">
                 <div class="row">
                     <div class="priceMore text-white d-flex">
-                        <p class="priceNumber mx-auto">2400 RUB</p>
+                        <p class="priceNumber mx-auto">8772 RUB</p>
                     </div>
                 </div>
                 <hr>
                 <div class="row">
-                    <p class="ml-3">Комплектация: <br>Диски обрезиненные черные: <br>2 по 10 кг <br>
-2 по 5 кг <br>2 по 1,25 кг <br>Гриф гантельный, с насечкой. <br>     Вес – 2 кг. <br> Замки резьбовые. <br>Суммарный вес 2-х – 0,5 кг.</p>
+                    <p class="ml-3">Длина грифа штанги: 149,5 см. <br>
+Ø 25 мм. <br>
+Два грифа гантелей длиной 36,7 см. <br>
+Внешний диаметр самого большого диска: 25,5 см. <br>
+16 весовых дисков 6 x 5 кг; 4 x 2,5 кг; 6 x 1,25 кг. <br>
+Общий вес набора: 50 кг. <br>
+В комплекте 6 пружинных замков. <br>
+Цвет: черный. <br>
+Материал: винил.
                 </div>
                 <div class="row">
                     <div class="btn-group" role="group">

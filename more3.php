@@ -20,18 +20,22 @@
     <div class="container">
         <div class="row" style="margin-top:130px;">
             <div class="col">
-                <img src="img/gantel.png" class="w-100">
+                <img src="img/brus.webp" class="w-100">
             </div>
             <div class="col">
                 <div class="row">
                     <div class="priceMore text-white d-flex">
-                        <p class="priceNumber mx-auto">2400 RUB</p>
+                        <p class="priceNumber mx-auto">4490 RUB</p>
                     </div>
                 </div>
                 <hr>
                 <div class="row">
-                    <p class="ml-3">Комплектация: <br>Диски обрезиненные черные: <br>2 по 10 кг <br>
-2 по 5 кг <br>2 по 1,25 кг <br>Гриф гантельный, с насечкой. <br>     Вес – 2 кг. <br> Замки резьбовые. <br>Суммарный вес 2-х – 0,5 кг.</p>
+                    <p class="ml-3">Максимальный вес пользователя: 120 кг; <br>
+Высота (максимальная): 98 см; <br>
+Высота (минимальная): 58 см; <br>
+Регулировка высоты: 7 уровней; <br>
+Длина: 73 см; <br>
+Ширина основания : 54 см;
                 </div>
                 <div class="row">
                     <div class="btn-group" role="group">
