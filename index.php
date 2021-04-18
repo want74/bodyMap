@@ -19,7 +19,7 @@
 
     <!--Content-->
     <div class="col">
-        <div class="row d-flex" style="height: 30vh;margin-top: 200px">
+        <div class="row d-flex" style="height: 30vh;margin-top: 30vh">
             <div class="col-10 mx-auto">
                 <div class="row">
                     <p class="mx-auto text-white heading">Тренируй тело, береги душу</p>

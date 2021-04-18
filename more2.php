@@ -18,7 +18,7 @@
     </nav>
     <!--CONTENT-->
     <div class="container">
-        <div class="row" style="margin-top:130px;">
+        <div class="row" style="margin-top:30vh;">
             <div class="col">
                 <img src="img/shtanga.webp" class="w-100">
             </div>

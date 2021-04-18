@@ -19,7 +19,7 @@
 
     <!--Content-->
     <div class="col">
-        <div class="row d-flex" style="height: 30vh;margin-top: 50px">
+        <div class="row d-flex" style="height: 30vh;margin-top: 20vh">
             <div class="col-3 mx-auto">
                 <div class="row zelLine" style="height:400px;background:#353535;">
                     <div class="col">
