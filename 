@@ -1,0 +1,102 @@
+[33mcommit b5892b4e29bb016658d6e9d5291b6dfc7c4436a0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/slave[m[33m, [m[1;32mslave[m[33m)[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sun Apr 18 11:59:44 2021 +0900
+
+    изменил высоту в рамки цены
+
+[33mcommit dea188f1b0eb9bde5e858c9d2fc10a6534ccd8d5[m[33m ([m[1;31morigin/master[m[33m, [m[1;32msecond[m[33m, [m[1;32mamazing_new_feature[m[33m)[m
+Merge: 4f66e04 04817ae
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sun Apr 18 11:05:36 2021 +0900
+
+    Merge branch 'master' of https://github.com/want74/bodyMap
+
+[33mcommit 4f66e04552ccb2df20655504608b2289074e9acf[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sun Apr 18 11:02:59 2021 +0900
+
+    добавил ховер на товар
+
+[33mcommit 04817aeb849a3da622ab1e59efcef693b33bff36[m
+Author: want74 <33675774+want74@users.noreply.github.com>
+Date:   Sun Apr 18 10:58:25 2021 +0900
+
+    Update README.md
+
+[33mcommit 33902cffd36a8f4efb6636ece0fbb5be75572f5b[m
+Author: want74 <33675774+want74@users.noreply.github.com>
+Date:   Sun Apr 18 10:57:31 2021 +0900
+
+    Create README.md
+
+[33mcommit cfb4a77889c92f3da25c120e9fe53b813d8a806f[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sun Apr 18 10:09:43 2021 +0900
+
+    checkPoint
+
+[33mcommit a0908f18c724a30dd0f9e4799f0c26ed4e0266ec[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sun Apr 18 08:04:56 2021 +0900
+
+    page more is maded
+
+[33mcommit e464bf0a25a4e06f23dac7b09bdc94592af0b402[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 15:31:49 2021 +0900
+
+    grudak css fixed
+
+[33mcommit 76ebe441b271544d0379854e22acd7cbf0689ab0[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 11:37:14 2021 +0900
+
+    GET for auth/reg has been maded
+
+[33mcommit 74d4645048bc9d2ee3ddedf15aa3b6d6db35fc9a[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 05:13:59 2021 +0900
+
+    visual changes
+
+[33mcommit 00a14c07bb8e69dbf505521ba9d025325d2bce37[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 04:34:02 2021 +0900
+
+    main page maded 2/2 front-end
+
+[33mcommit 47008750eacf382ed0d7fc60a45bcdc80e03aa7b[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 03:48:00 2021 +0900
+
+    main page maded 1/2 front-end
+
+[33mcommit 695de97d511b18f82259cac6d51c05e614794ea7[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 03:15:22 2021 +0900
+
+    only auth page maded
+
+[33mcommit 496b23c89512da37e5fc8a3cfae81b79506d1d47[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 02:28:48 2021 +0900
+
+    only auth page maded
+
+[33mcommit 99a960a8ddc3b1467578a57937c53fe448a6c6f8[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Sat Apr 17 02:08:03 2021 +0900
+
+    first page maded
+
+[33mcommit 9a4a1ad84b898a9d56e3a6e7982cc1e2e0b43bc4[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Fri Apr 16 23:29:44 2021 +0900
+
+    test
+
+[33mcommit 7aa586037367575b0fa7a3cfd9aef5e75e26140d[m
+Author: K4N <andrushkakychkin@gmail.com>
+Date:   Fri Apr 16 23:19:11 2021 +0900
+
+    Start
